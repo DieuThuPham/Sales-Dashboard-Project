@@ -50,3 +50,4 @@ Store Comparison:
 * Leverage the uniform store performance to test new initiatives (e.g., mobile ordering, seasonal offerings) in any branch.
 * Use balanced sales as a signal to ensure even support across locations in terms of training, supply chain, and performance monitoring.
 
+Link Power BI: https://app.powerbi.com/links/1eqUKJyC6W?ctid=cb48446e-90e6-4bf1-825b-40e48fcc9ff6&pbi_source=linkShare
