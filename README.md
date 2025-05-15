@@ -1,5 +1,7 @@
 # Sales-Dashboard-Project
 Link Power BI: https://app.powerbi.com/view?r=eyJrIjoiN2RmZmNiOWYtZjYyNS00NzU0LWJlOWYtNzUxMTVlMjJjMzNlIiwidCI6ImNiNDg0NDZlLTkwZTYtNGJmMS04MjViLTQwZTQ4ZmNjOWZmNiJ9
+
+
 I. Audience
 This dashboard is designed for the Operations Manager, who is responsible for overseeing sales performance, store efficiency, and product portfolio management across multiple locations.
 
